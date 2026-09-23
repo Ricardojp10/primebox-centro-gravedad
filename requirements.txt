@@ -1,0 +1,14 @@
+# PRIMEBOX - Centro de Gravedad Logistico
+# Dependencias principales de la aplicacion
+
+streamlit
+geopandas
+folium
+streamlit-folium
+pandas
+numpy
+scipy
+pyproj
+shapely
+plotly
+openpyxl
